@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bezier.CSharp", "Bezier.CSharp.csproj", "{DD9DDC88-45F1-7E31-E500-9A1330387E8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bezier.CSharp.Editor", "Bezier.CSharp.Editor.csproj", "{07CFCC44-E7A2-119D-5E40-91D1AF95FDBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD9DDC88-45F1-7E31-E500-9A1330387E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9DDC88-45F1-7E31-E500-9A1330387E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9DDC88-45F1-7E31-E500-9A1330387E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9DDC88-45F1-7E31-E500-9A1330387E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07CFCC44-E7A2-119D-5E40-91D1AF95FDBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CFCC44-E7A2-119D-5E40-91D1AF95FDBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CFCC44-E7A2-119D-5E40-91D1AF95FDBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CFCC44-E7A2-119D-5E40-91D1AF95FDBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
